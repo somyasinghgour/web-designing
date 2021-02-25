@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>9xflix</title>
+	<style>
+*{
+	margin :0;
+	padding: 0;
+}
+
+		.header{
+			background: #343434;
+			width: 100%;
+			height: 130px;
+		}
+		.image{
+			margin-left: 95px;
+			margin-top: 20px;
+		}
+		.menu{
+			background:#5b89b8; 
+			width:100%;
+			height: 40px;
+			/*padding-top: 17px;*/
+			line-height: 40px;
+		}
+		.h{
+color: white;
+font-size: 16px;
+margin-left:40px;
+font-family: sans-serif;
+text-decoration:none;
+}
+.a{
+	
+	width:300px; 
+	height:400px;
+	float: left;
+	margin-left: 16px;
+	background: white;
+
+}
+.movies{
+	width: 90px;
+	height: 40px;
+	margin: auto;
+	margin-top: 70px;
+	background: red;
+}
+.div{
+width:; 
+margin:;
+background:blue;
+
+}
+.f{
+width: 287px;
+height:400px;
+float:;
+margin:8px;
+margin-top:42px;
+margin-left: 1px;
+margin-right: 15px;
+
+}
+.g{
+width:100%; 
+height:400px;
+}
+
+
+	</style>
+
+</head>
+<body>
+<!-----header star----->
+<div class="header">
+	
+<img src="https://9xflix.asia/m/wp-content/uploads/2019/03/9xflix-main.png" class="image">
+</div><!----end div header-->
+
+<!-----header end---->
+<!---latest movies start-->
+<div class="movies">
+<h1 class="">margin-top:70px</h1>
+</div>
+<!--latest movies end-->
+<div class="div">
+	
+</div>
+
+</body>
+</html>
